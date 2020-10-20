@@ -1,6 +1,6 @@
 # Git-tutorial
 
-## URL : https://learngitbranching.js.org/?locale=ko
+### URL : https://learngitbranching.js.org/?locale=ko
 
 ### Level intro1
 ```
